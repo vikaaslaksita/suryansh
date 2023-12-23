@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body, html{
+   background-color: rgb(255, 255, 255);
+
+}
+.box1{
+    position: absolute;
+    display: flex;
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    margin-top: 20px;
+}
+.back-btn .back--btn-fleet {
+    position: absolute;
+    z-index: 2;
+    top: 10px;
+    left: 10px;
+    color: #f6f6f6dd;
+    background-color:#000000dd;
+    border-radius: 20px;
+    padding: 5px 10px;
+    text-decoration: none;
+    border: 2px solid rgb(0, 0, 0);   
+}
