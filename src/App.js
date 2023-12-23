@@ -10,7 +10,7 @@ import OurFleet from './Component/OurFleet';
 function App() {
   return (
   <div>
-   <BrowserRouter>
+     <BrowserRouter basename='/suryansh'>
    <Routes>
     <Route path="/" element={<Index/>}/>
     <Route path="/Login" element={<Login/>}></Route>
