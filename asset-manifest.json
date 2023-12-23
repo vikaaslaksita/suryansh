@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/suryansh/static/css/main.da72e763.css",
+    "main.js": "/suryansh/static/js/main.dfafcd7f.js",
+    "static/js/787.8555d42d.chunk.js": "/suryansh/static/js/787.8555d42d.chunk.js",
+    "static/media/bglogin.jpg": "/suryansh/static/media/bglogin.4d5ffbe133e3e44be91e.jpg",
+    "static/media/bgsignup.jpg": "/suryansh/static/media/bgsignup.cf8bf7d3906a25cd4f4b.jpg",
+    "static/media/bgimagebike.jpg": "/suryansh/static/media/bgimagebike.02cc331fc24dfe64efde.jpg",
+    "static/media/bike5.jpg": "/suryansh/static/media/bike5.65033e69e66fabad2556.jpg",
+    "static/media/bike1.jpg": "/suryansh/static/media/bike1.90ee4ceb2a1cc7ed8633.jpg",
+    "static/media/bike4.jpg": "/suryansh/static/media/bike4.1a3ad92b4cf4cb524e70.jpg",
+    "static/media/bike6.jpg": "/suryansh/static/media/bike6.4580bd4899cbffce6a54.jpg",
+    "static/media/bike2.jpg": "/suryansh/static/media/bike2.4c0f6dfeb8422cbeb892.jpg",
+    "static/media/bike3.jpg": "/suryansh/static/media/bike3.00025707a0d922e87c6c.jpg",
+    "static/media/logo.svg": "/suryansh/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/suryansh/index.html",
+    "main.da72e763.css.map": "/suryansh/static/css/main.da72e763.css.map",
+    "main.dfafcd7f.js.map": "/suryansh/static/js/main.dfafcd7f.js.map",
+    "787.8555d42d.chunk.js.map": "/suryansh/static/js/787.8555d42d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da72e763.css",
+    "static/js/main.dfafcd7f.js"
+  ]
+}
